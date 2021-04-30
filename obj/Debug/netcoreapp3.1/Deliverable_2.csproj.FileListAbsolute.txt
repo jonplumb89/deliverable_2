@@ -1,0 +1,13 @@
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\Deliverable_2.exe
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\Deliverable_2.deps.json
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\Deliverable_2.runtimeconfig.json
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\Deliverable_2.runtimeconfig.dev.json
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\Deliverable_2.dll
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\Deliverable_2.pdb
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.csprojAssemblyReference.cache
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.AssemblyInfoInputs.cache
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.AssemblyInfo.cs
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.csproj.CoreCompileInputs.cache
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.dll
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.pdb
+C:\Users\jonpl\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.genruntimeconfig.cache
